@@ -1,0 +1,12 @@
+# 本地私人 / 敏感目录 —— 勿提交到公开仓（abok-marketing-doc 是公开 Pages 仓）
+.DS_Store
+
+# 战略项目源文件 + 含口令的 CLAUDE.md（只发布 strategy/ 下的加密产物）
+syd_strategy/
+
+# 其他私人研究/文档目录
+ads_docs/
+ceo_study/
+cheng_docs/
+xie_study/
+yuan_docs/
